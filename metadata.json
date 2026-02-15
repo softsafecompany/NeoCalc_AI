@@ -1,0 +1,7 @@
+{
+  "name": "NeoCalc AI",
+  "description": "A sophisticated, Gemini-powered multimodal math solver and intelligent calculator that handles everything from basic arithmetic to complex symbolic calculus with step-by-step visual explanations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

@@ -1,0 +1,7 @@
+
+{
+  "appId": "com.neocalc.ai",
+  "appName": "NeoCalc AI",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}
